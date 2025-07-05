@@ -13,6 +13,7 @@ Trained model once on training dataset and then again on the augemented training
 Then tested on the test dataset.
 
 Augmented Images
+
 ![Augmented_image_1](https://github.com/user-attachments/assets/b7e7eb94-13db-4bd2-8549-791245bddf6a)
 
 ![Augmented_Image_2](https://github.com/user-attachments/assets/9f196699-31f3-4ead-8b9a-670966f77cbc)

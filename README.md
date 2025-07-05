@@ -6,10 +6,15 @@ In this assignment we have explored the data augmentation using the Augly tool b
 
 Procedure -
 We were given a data of images of dogs and cats for classification.
+Procedure -
 We made the training and testing dataset out of it.
+Procedure -
 Augmented the training dataset 2 times to expand the training dataset by 3 times.
+Procedure -
 We used microsoft/resnet50 model for the classification. Firstly, we initialized the weights of the model.
+Procedure -
 Trained model once on training dataset and then again on the augemented training dataset.
+Procedure -
 Then tested on the test dataset.
 
 Augmented Images

@@ -1,5 +1,5 @@
 # STT-Assignment-5
-This is Assignment 5 of STT. Made by Nitin Bansal(23110223) ans Dhruv Goel(23110098) from Group Number 10.
+This is Assignment 5 of STT. Made by Nitin Bansal(23110223) and Dhruv Goel(23110098) from Group Number 10.
 
 **Introduction** -
 
